@@ -1,0 +1,2 @@
+class JobsMailer < ApplicationMailer
+end
